@@ -12,7 +12,7 @@ def retrieval
 end
 
 def adding
-  the_manifest = {"whale bone corsets" => 2, "oil paintings" => 3, "porcelain vases" => 5}
+  the_manifest = {"porcelain vases" => 5, "oil paintings" => 3, "whale bone corsets" => 2}
   the_manifest["muskets"] = 2
   the_manifest["gun powder"] = 4
 
